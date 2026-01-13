@@ -1,6 +1,6 @@
 // src/components/App.tsx
 
-import Product from "./Product";
+// import Product from "./Product";
 
 // export default function App() {
 //   return (
